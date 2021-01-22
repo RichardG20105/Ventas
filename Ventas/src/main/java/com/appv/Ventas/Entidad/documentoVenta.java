@@ -1,4 +1,4 @@
-package com.appv.Ventas.DAO;
+package com.appv.Ventas.Entidad;
 
 import java.util.Date;
 import java.util.List;
